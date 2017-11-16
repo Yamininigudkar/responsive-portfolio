@@ -1,3 +1,3 @@
 # Responsive-Portfolio
 ## Overview
-Basic portfolio made resposive using CSS media queries.
+Basic portfolio made responsive using CSS media queries.
